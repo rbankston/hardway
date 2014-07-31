@@ -1,0 +1,16 @@
+def - starts a method
+puts - puts out a string along with a new line
+print - print a string without a new line
+gets - get string from stdin
+chomp - removes last line
+\n - new line
+\t - tab
+* - multiply
+- - subtracts
++ - adds
+% - as arthimatic puts the remainder out
+variable - puts something in a variable
+ARGV - gets input when passing input from the command line
+write - write to a file
+read - read from a file
+% as a literal http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals
